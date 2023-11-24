@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amanshivpure/Calendar/static/css/main.664809cc.css",
+    "main.js": "/amanshivpure/Calendar/static/js/main.63ba865c.js",
+    "static/js/787.5c925b56.chunk.js": "/amanshivpure/Calendar/static/js/787.5c925b56.chunk.js",
+    "static/media/jonny-mckenna-4igCpD-Lnfg-unsplash.jpg": "/amanshivpure/Calendar/static/media/jonny-mckenna-4igCpD-Lnfg-unsplash.554699bcca3abde19887.jpg",
+    "index.html": "/amanshivpure/Calendar/index.html",
+    "main.664809cc.css.map": "/amanshivpure/Calendar/static/css/main.664809cc.css.map",
+    "main.63ba865c.js.map": "/amanshivpure/Calendar/static/js/main.63ba865c.js.map",
+    "787.5c925b56.chunk.js.map": "/amanshivpure/Calendar/static/js/787.5c925b56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664809cc.css",
+    "static/js/main.63ba865c.js"
+  ]
+}
