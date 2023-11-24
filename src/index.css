@@ -1,0 +1,77 @@
+
+.main {
+ display: flex;
+margin-left: 20%;
+margin-top: 8pxpx;
+}
+.Select-date{
+  
+  width: 210px;
+  border:1px solid #000000;
+  border-left: none;
+  justify-content: space-between;
+ 
+  background-color: cornflowerblue;
+  background-image:url('jonny-mckenna-4igCpD-Lnfg-unsplash.jpg');
+  background-size:cover;
+  
+}
+h3{
+  font-size: xx-large;
+  margin-left: 45%;
+  padding-top: 10px;
+}
+.C-month{
+ font-size:xx-large ;
+ 
+}
+.Today-date{
+  font-size:700%;
+  color:#e0e0e0;
+}
+.Year{
+  font-size:xx-large;
+ 
+  color: #ff9e2a;
+  
+}
+
+p{
+  color:#a9a9a9;
+  border: 1px dotted;
+  inline-size: 50px;
+  margin-left:-120px;
+}
+
+/*.header {
+  display: flex;
+  margin-bottom: 0.7rem;
+  justify-content: space-between;
+  align-items: center;
+}
+.header button {
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+.body {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 5px;
+}
+.box {
+  height: 2rem;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.box.empty {
+  background-color: #e0e0e0;
+  cursor: default;
+}
+.box.selected {
+  background-color: blue;
+  color: white;
+}*/
